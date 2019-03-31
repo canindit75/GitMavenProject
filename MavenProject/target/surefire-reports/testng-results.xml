@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43844" started-at="2019-03-30T12:15:33Z" finished-at="2019-03-30T12:16:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43844" started-at="2019-03-30T12:15:33Z" finished-at="2019-03-30T12:16:16Z">
+      <class name="com.project.testcases.Drag_Drop_HandlingFrames">
+        <test-method status="PASS" signature="HandlingFrames()[pri:0, instance:com.project.testcases.Drag_Drop_HandlingFrames@2d209079]" name="HandlingFrames" duration-ms="9902" started-at="2019-03-30T12:16:06Z" finished-at="2019-03-30T12:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HandlingFrames -->
+      </class> <!-- com.project.testcases.Drag_Drop_HandlingFrames -->
+      <class name="com.project.testcases.ChangeDropDownValues">
+        <test-method status="PASS" signature="ChangeDDValues()[pri:0, instance:com.project.testcases.ChangeDropDownValues@2f7c7260]" name="ChangeDDValues" duration-ms="16366" started-at="2019-03-30T12:15:50Z" finished-at="2019-03-30T12:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeDDValues -->
+      </class> <!-- com.project.testcases.ChangeDropDownValues -->
+      <class name="com.project.testcases.CaptureScreenshot">
+        <test-method status="PASS" signature="getScreenshot()[pri:0, instance:com.project.testcases.CaptureScreenshot@1b0375b3]" name="getScreenshot" duration-ms="17542" started-at="2019-03-30T12:15:33Z" finished-at="2019-03-30T12:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenshot -->
+      </class> <!-- com.project.testcases.CaptureScreenshot -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
